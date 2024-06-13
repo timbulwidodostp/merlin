@@ -1,5 +1,19 @@
-d 'DEA': Data envelopment analysis
+d 'merlin': Mixed effects regression for linear, non-linear and user-defined models Use merlin With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f exptorcs.ado
+f exptorcs.sthlp
+f lmerlin.mlib
+f merlin.ado
+f merlin.sthlp
+f merlin_estimation.sthlp
+f merlin_model_options.sthlp
+f merlin_models.sthlp
+f merlin_p.ado
+f merlin_parse.ado
+f merlin_postestimation.sthlp
+f merlin_reporting.sthlp
+f merlin_user.sthlp
+f stata.toc
+f stmerlin.ado
+f stmerlin.sthlp
+f stmerlin_postestimation.sthlp
