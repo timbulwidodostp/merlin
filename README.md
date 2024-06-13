@@ -1,2 +1,12 @@
 # merlin
-Mixed effects regression for linear, non-linear and user-defined models Use With STATA 18
+Mixed effects regression for linear, non-linear and user-defined models Use merlin With STATA 18
+
+Olah Data Semarang
+
+WA : +6285227746673 (085227746673)
+
+Receive Statistical Analysis Data Processing Services Using
+
+SPSS, AMOS, LISREL, Frontier 4.1, EVIEWS, SMARTPLS, STATA
+
+DEAP 2.1, ETC
